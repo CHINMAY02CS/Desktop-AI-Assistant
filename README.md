@@ -1,10 +1,6 @@
 # Desktop-AI-Assistant
 This is an AI assistant which takes speech as input and performs various tasks
 
-# Document-Scanner
-
-This is a smart document scanner made using Python.
-This AI Assistant takes the audio input from the user using a microphone and performs tasks as directed.
 
 ## Working 
 * The code is run and the AI assistant greets the user with a welcome message.
